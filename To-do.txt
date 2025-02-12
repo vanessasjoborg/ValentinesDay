@@ -1,0 +1,10 @@
+- Randomise the functionality of the No button every time the page re-loads.
+
+1. Runaway
+2. No button disappears.
+3. Pop up alert box saying "Try again".
+4. Change the text to yes whenever the cursor comes within 30px of the button.
+5. When pressing No, the Yes button grows.
+6. When pressing No, more Yes buttons appear.
+7. Yes button moving towards the cursor.
+
