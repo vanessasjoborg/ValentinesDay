@@ -1,5 +1,5 @@
 const noButton = document.getElementById('no');
-const OFFSET = 100; // pixels
+const OFFSET = 50; // pixels
 
 noButton.addEventListener('click', () => {
     alert('Nice try!');
