@@ -7,4 +7,8 @@
 5. When pressing No, the Yes button grows.
 6. When pressing No, more Yes buttons appear.
 7. Yes button moving towards the cursor.
+8. No button shatters when pressed.
+
+Side quest:
+- Create own pixel art?
 
